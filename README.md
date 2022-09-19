@@ -1,0 +1,2 @@
+# MSSQLProxy
+一个能够利用MSSQL的xp_cmdshell功能来进行流量代理的脚本，用于在站酷分离且不出网SQL注入进行代理
